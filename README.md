@@ -11,3 +11,6 @@ history
 <br>
 allergies: PCN
 <br>
+diet: ins and outs
+<br>
+
