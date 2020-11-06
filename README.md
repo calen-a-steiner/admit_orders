@@ -13,4 +13,7 @@ allergies: PCN
 <br>
 diet: ins and outs
 <br>
-
+meds
+<br>
+labs
+<br>
