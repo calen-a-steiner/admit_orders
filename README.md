@@ -1,2 +1,4 @@
 # admit_orders
-testing
+admit: to the hospital
+diagnosis: sick
+condition: not great
