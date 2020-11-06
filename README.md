@@ -5,7 +5,7 @@ diagnosis: sick
 <br>
 condition: not great
 <br>
-Vitals - lets add these
+Vitals - fixing
 <br>
 history
 <br>
